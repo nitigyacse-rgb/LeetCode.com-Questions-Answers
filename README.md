@@ -7,6 +7,7 @@ LeetCode question/answer and daily practice problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,12 @@ LeetCode question/answer and daily practice problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
