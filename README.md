@@ -22,6 +22,7 @@ LeetCode question/answer and daily practice problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
