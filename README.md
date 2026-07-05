@@ -10,6 +10,7 @@ LeetCode question/answer and daily practice problems
 | [0004-median-of-two-sorted-arrays](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ LeetCode question/answer and daily practice problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,4 +77,8 @@ LeetCode question/answer and daily practice problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
