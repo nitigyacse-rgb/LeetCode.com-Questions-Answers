@@ -51,6 +51,7 @@ LeetCode question/answer and daily practice problems
 | [0013-roman-to-integer](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,4 +96,8 @@ LeetCode question/answer and daily practice problems
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
