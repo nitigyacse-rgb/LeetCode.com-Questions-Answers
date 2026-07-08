@@ -27,6 +27,7 @@ LeetCode question/answer and daily practice problems
 | [0002-add-two-numbers](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ LeetCode question/answer and daily practice problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +107,12 @@ LeetCode question/answer and daily practice problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
