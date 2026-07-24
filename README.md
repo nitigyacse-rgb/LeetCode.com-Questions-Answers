@@ -38,6 +38,7 @@ LeetCode question/answer and daily practice problems
 | [0057-insert-interval](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ LeetCode question/answer and daily practice problems
 | [0055-jump-game](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -218,6 +220,7 @@ LeetCode question/answer and daily practice problems
 | [0054-spiral-matrix](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0064-minimum-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
