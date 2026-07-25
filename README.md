@@ -39,6 +39,7 @@ LeetCode question/answer and daily practice problems
 | [0059-spiral-matrix-ii](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ LeetCode question/answer and daily practice problems
 | [0050-powx-n](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
