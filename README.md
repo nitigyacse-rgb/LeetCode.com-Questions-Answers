@@ -49,6 +49,7 @@ LeetCode question/answer and daily practice problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@ LeetCode question/answer and daily practice problems
 | [0064-minimum-path-sum](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -235,6 +237,7 @@ LeetCode question/answer and daily practice problems
 | [0042-trapping-rain-water](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -266,11 +269,13 @@ LeetCode question/answer and daily practice problems
 | [0073-set-matrix-zeroes](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
