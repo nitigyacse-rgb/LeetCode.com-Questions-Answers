@@ -136,6 +136,7 @@ LeetCode question/answer and daily practice problems
 | [0072-edit-distance](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0087-scramble-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,6 +196,7 @@ LeetCode question/answer and daily practice problems
 | [0070-climbing-stairs](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0087-scramble-string) |
 ## Greedy
 |  |
 | ------- |
