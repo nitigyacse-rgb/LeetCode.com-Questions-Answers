@@ -97,6 +97,7 @@ LeetCode question/answer and daily practice problems
 | [0067-add-binary](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -236,6 +237,7 @@ LeetCode question/answer and daily practice problems
 | [0077-combinations](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -263,6 +265,7 @@ LeetCode question/answer and daily practice problems
 | [0029-divide-two-integers](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
