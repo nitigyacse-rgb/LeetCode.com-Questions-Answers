@@ -324,6 +324,7 @@ LeetCode question/answer and daily practice problems
 | [0094-binary-tree-inorder-traversal](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0100-same-tree) |
 ## Tree
 |  |
 | ------- |
@@ -332,6 +333,7 @@ LeetCode question/answer and daily practice problems
 | [0096-unique-binary-search-trees](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -340,6 +342,7 @@ LeetCode question/answer and daily practice problems
 | [0096-unique-binary-search-trees](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -347,4 +350,8 @@ LeetCode question/answer and daily practice problems
 | [0096-unique-binary-search-trees](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0099-recover-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nitigyacse-rgb/LeetCode.com-Questions-Answers/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
